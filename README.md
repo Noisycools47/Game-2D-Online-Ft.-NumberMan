@@ -1,1 +1,1 @@
-# Game-3D-Online-Ft.-NumberMan
+# Game-2D-Online-Ft.-NumberMan
